@@ -1,0 +1,5 @@
+cd
+cd
+cd ../usr/share/shalaniroot
+./start-kali.sh
+
